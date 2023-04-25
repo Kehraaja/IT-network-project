@@ -1,0 +1,73 @@
+* {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar img {
+	height: auto;
+	max-width: 60px;
+}
+
+.frame {
+	border-radius: 8px;
+	margin: 0 auto;
+	max-width: 400px;
+}
+
+.form-group {
+	margin-bottom: 1rem;
+}
+
+h4 {
+	text-transform: uppercase;
+}
+
+th {
+	text-transform: uppercase;
+	vertical-align: top;
+}
+
+td {
+	vertical-align: middle;
+}
+
+table button {
+	border: none;
+	background: aqua;
+	color: green;
+	font-weight: bold;
+    margin-right: 10px;
+    padding: 0;
+	text-transform: uppercase;
+	width: auto;
+}
+
+table button:hover {
+	color: lightseagreen;
+}
+
+tbody button:last-child {
+	color: red;
+}
+
+table button:last-child:hover {
+	color: coral;
+}
+
+footer {
+	bottom: 0;
+	background-color: #292b2c ;
+	color: #fff;
+	font-size: .7rem;
+	left: 0;
+	padding: 10px;
+	position: fixed;
+	text-align: center;
+	width: 100%;
+}
+
+
+
+
+
+
+
